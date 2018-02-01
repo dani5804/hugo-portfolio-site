@@ -1,4 +1,4 @@
-baseurl             = "/"
+baseurl             = "https://dani5804.github.io/hugo-portfolio-site/"
 languageCode        = "en-us"
 title               = "Daniel Carl Hennings - Portfolio"
 theme               = "introduction"
