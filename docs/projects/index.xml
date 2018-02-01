@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Daniel Carl Hennings - Portfolio</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Daniel Carl Hennings - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jan 2018 15:58:03 +0100</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Veronah - Waters</title>
+      <link>/projects/veronah-waters/</link>
+      <pubDate>Wed, 31 Jan 2018 15:58:03 +0100</pubDate>
+      
+      <guid>/projects/veronah-waters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soelmark - in Fuerore</title>
+      <link>/projects/eline-soelmark-in-fuerore/</link>
+      <pubDate>Wed, 31 Jan 2018 15:54:47 +0100</pubDate>
+      
+      <guid>/projects/eline-soelmark-in-fuerore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vestfor - Glas</title>
+      <link>/projects/vestfor-glas/</link>
+      <pubDate>Wed, 31 Jan 2018 21:18:28 +0100</pubDate>
+      
+      <guid>/projects/vestfor-glas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freja - Interview</title>
+      <link>/projects/freja-interview/</link>
+      <pubDate>Wed, 31 Jan 2018 21:17:39 +0100</pubDate>
+      
+      <guid>/projects/freja-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NYC - Timelapse</title>
+      <link>/projects/nyc-timelapse/</link>
+      <pubDate>Wed, 31 Jan 2018 16:00:28 +0100</pubDate>
+      
+      <guid>/projects/nyc-timelapse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gobersen - Lewis Clark</title>
+      <link>/projects/soeren-gobersen-lewis-and-clark/</link>
+      <pubDate>Wed, 31 Jan 2018 15:59:55 +0100</pubDate>
+      
+      <guid>/projects/soeren-gobersen-lewis-and-clark/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
